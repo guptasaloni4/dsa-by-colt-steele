@@ -1,0 +1,15 @@
+{
+  "name": "dsa-by-colt-steele",
+  "version": "1.0.0",
+  "description": "DSA Course by Colt Steele",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guptasaloni4"
+  },
+  "license": "ISC",
+  "author": "Saloni",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
