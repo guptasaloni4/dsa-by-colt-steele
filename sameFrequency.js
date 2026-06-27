@@ -1,5 +1,5 @@
 function sameFrequency(x, y){
-  // good luck. Add any arguments you deem necessary.
+
   let freqCount1 = {};
   let freqCount2 = {};
   

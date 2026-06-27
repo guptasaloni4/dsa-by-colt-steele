@@ -1,0 +1,14 @@
+# ===================================
+# Common .gitignore Patterns Reference
+# ===================================
+# Pattern                | Meaning
+# ====================== | ========================================
+# file.txt               | Ignore specific file
+# *.log                  | Ignore all files with .log extension
+# folder/                | Ignore entire folder
+# folder/*.js            | Ignore .js files in folder only
+# !important.log         | Exception - don't ignore this file
+# **/node_modules        | Ignore node_modules in any directory
+# ===================================
+
+package-lock.json

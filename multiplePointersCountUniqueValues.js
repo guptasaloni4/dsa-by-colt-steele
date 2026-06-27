@@ -1,7 +1,6 @@
 
 //method 1
 function countUniqueValues(arr){
-  // add whatever parameters you deem necessary 
   
   if(arr.length <=1){
       return arr.length;
