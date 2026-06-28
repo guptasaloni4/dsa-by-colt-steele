@@ -23,7 +23,7 @@ function sameFrequency(x, y){
 //           return false;
 //       }
 //   }
-//Object iteration works like below*******
+// Object iteration works like below*******
   for (let i in freqCount1){
       if(freqCount1[i]!= freqCount2[i]){
           return false;
